@@ -1,4 +1,4 @@
-# Cloudflare worker example app
+# Cloudflare worker example app 1
 
 awwbot is an example app that brings the cuteness of `r/aww` straight to your Discord server, hosted on Cloudflare workers. Cloudflare Workers are a convenient way to host Discord bots due to the free tier, simple development model, and automatically managed environment (no VMs!).
 
